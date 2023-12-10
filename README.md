@@ -16,5 +16,6 @@
     
 ### 使用者介面 GUI
 `cd GUI`
+
 `python3 tkinter_seperate.py`
 
